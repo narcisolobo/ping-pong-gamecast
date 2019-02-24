@@ -1,0 +1,24 @@
+{
+  "name": "ping_pong_gamecast",
+  "version": "1.0.0",
+  "description": "Project for the MEAN Stack, Coding Dojo (2.24.19).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narcisolobo/ping-pong-gamecast.git"
+  },
+  "author": "Narciso Lobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narcisolobo/ping-pong-gamecast/issues"
+  },
+  "homepage": "https://github.com/narcisolobo/ping-pong-gamecast#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.15"
+  }
+}
